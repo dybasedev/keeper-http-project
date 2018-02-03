@@ -1,0 +1,14 @@
+{
+    "name": "dybasedev/keeper-http-project",
+    "type": "project",
+    "require": {
+        "dybasedev/keeper": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chongyi",
+            "email": "xpz3847878@163.com"
+        }
+    ]
+}
