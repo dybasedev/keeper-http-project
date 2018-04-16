@@ -16,6 +16,12 @@ composer create-project dybasedev/keeper-http-project my-project
 $ php app/bootstrap.php
 ```
 
+或直接
+
+```
+$ ./serve
+```
+
 现在可以访问 `<Server Host>:11780`，看到浏览器显示 `Hello, world` 即表示成功。若需要终止服务端监听按 `Control + C` 即可。
 
 

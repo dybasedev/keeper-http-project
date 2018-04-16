@@ -2,7 +2,8 @@
     "name": "dybasedev/keeper-http-project",
     "type": "project",
     "require": {
-        "dybasedev/keeper": "dev-master"
+        "dybasedev/keeper": "dev-master",
+        "dybasedev/database": "dev-master"
     },
     "license": "MIT",
     "authors": [
